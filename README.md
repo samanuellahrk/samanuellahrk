@@ -9,7 +9,15 @@
   - https://github.com/samanuellahrk/Intaka-Application.git
 
 - <b>Client-Server File Sharing</b>
-  - https://github.com/samanuellahrk/Intaka-Application.git
+  - https://github.com/samanuellahrk/Client-Server-Application.git
+
+<h2>🛠️ Tech Stack:</h2>
+
+- **Languages**: Python, JavaScript, Java, SQL, R
+- **Frameworks**: MERN, React
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, PLY
+- **Cloud**: Azure
 
 <h2> 🤳 Connect with me:</h2>
 
