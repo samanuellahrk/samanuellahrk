@@ -6,7 +6,7 @@
   - https://github.com/rebeccaoddy/smcms-project.git
  
 - <b>Nature Park Application & Plant classifier</b>
-  - https://github.com/rebeccaoddy/smcms-project.git
+  - https://github.com/samanuellahrk/Intaka-Application.git
 
 <h2> 🤳 Connect with me:</h2>
 
