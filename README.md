@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Student Analytic Dashboard (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Student Analytic Dashboard (SMAC)</b>
+  - https://github.com/rebeccaoddy/smcms-project.git
 
 <h2> 🤳 Connect with me:</h2>
 
