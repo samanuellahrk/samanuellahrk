@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
