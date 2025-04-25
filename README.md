@@ -9,7 +9,7 @@
   - https://github.com/samanuellahrk/Intaka-Application.git
 
 - <b>Python based XRP arbitrage bot</b>
-  - https://github.com/samanuellahrk/Client-Server-Application.git
+  - https://github.com/samanuellahrk/XRP-Arbitrage-Bot
 
 <h2>🛠️ Tech Stack:</h2>
 
