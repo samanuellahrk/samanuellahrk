@@ -8,7 +8,7 @@
 - <b>Nature Park Application & Plant classifier</b>
   - https://github.com/samanuellahrk/Intaka-Application.git
 
-- <b>Client-Server File Sharing</b>
+- <b>Python based XRP arbitrage bot</b>
   - https://github.com/samanuellahrk/Client-Server-Application.git
 
 <h2>🛠️ Tech Stack:</h2>
